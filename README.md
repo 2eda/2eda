@@ -1,7 +1,2 @@
-# Hiro
-# Hiro
-# Hiro
-# Hiro
-# Hiro
-# Hiro
-# Hiro
+# My-first-test-repo
+
